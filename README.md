@@ -7,4 +7,7 @@
 git clone https://github.com/zhangle0013/comfyui-EmptyImageYesON.git
 ```
 ## Examples
-[Txt2_Img_Example](https://github.com/FizzleDorf/ComfyUI_FizzNodes/assets/46942135/8899f25e-fbc8-423c-bef2-e7c5a91fb7f4)
+[Example](https://github.com/zhangle0013/comfyui-EmptyImageYesON/blob/main/example.png)
+
+
+
