@@ -7,7 +7,7 @@
 git clone https://github.com/zhangle0013/comfyui-EmptyImageYesON.git
 ```
 ## Examples
-[Example](https://github.com/zhangle0013/comfyui-EmptyImageYesON/blob/main/example.png)
+(https://github.com/zhangle0013/comfyui-EmptyImageYesON/blob/main/example.png)
 
 
 
